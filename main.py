@@ -1,5 +1,4 @@
 # nuitka-project: --standalone
-# nuitka-project: --onefile
 # nuitka-project: --windows-console-mode=disable
 # nuitka-project: --mingw64
 # nuitka-project: --enable-plugin=pyside6
