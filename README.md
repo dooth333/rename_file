@@ -1,4 +1,4 @@
-# ReFile (自动重命名神器)
+# ReFile (自动重命名工具)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![PySide6](https://img.shields.io/badge/UI-PySide6-green)
