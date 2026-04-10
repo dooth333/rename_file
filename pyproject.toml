@@ -1,0 +1,11 @@
+[project]
+name = "rename-file"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "nuitka>=4.0.7",
+    "pyside6>=6.11.0",
+    "zstandard>=0.25.0",
+]

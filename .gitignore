@@ -1,0 +1,39 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# ========================
+# 1. uv 虚拟环境 (绝对不能传)
+# ========================
+.venv/
+
+# ========================
+# 2. Nuitka 编译产物 (体积巨大，绝对不能传)
+# ========================
+*.build/
+*.dist/
+*.onefile-build/
+*.exe
+nuitka-crash-report.xml
+
+# ========================
+# 3. Python 运行时缓存
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ========================
+# 4. 编辑器与操作系统垃圾文件
+# ========================
+.vscode/
+.DS_Store
+Thumbs.db
